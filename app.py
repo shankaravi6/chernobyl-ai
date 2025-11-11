@@ -15,7 +15,7 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
 # ---------- CONFIG ----------
-DATA_FILE  = "data/Chernobyl-Information.pdf"   # Change to .pdf or .txt
+DATA_FILE  = "data/Chernobyl-Facts.pdf"   # Change to .pdf or .txt
 DB_DIR     = "./chernobyl_db"                 # Local Chroma folder
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 OLLAMA_MODEL = "llama3"
