@@ -3,6 +3,8 @@
 <p><em>
 A practical roadmap to become a <strong>production-ready AI Engineer</strong>, covering
 foundations → LLMs → RAG → agents → reliability.
+Read the <a href="https://medium.com/@shankaravi6/ai-engineer-roadmap-2026-c55583111066" target="_blank">
+<strong>full roadmap on Medium</strong></a>.
 </em></p>
 
 <hr/>
